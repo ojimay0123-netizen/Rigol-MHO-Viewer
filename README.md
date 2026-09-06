@@ -8,3 +8,6 @@ pytonをインストールしてinstall_python_packages.batを実行すること
 より良いものができたら公開していただけると助かります。
 
 <https://github.com/ojimay0123-netizen/Rigol-MHO-Viewer/blob/main/MHO984_sync_r12_11d_scope_dual_drift_complete.zip>
+
+画面イメージ
+<img width="3837" height="2152" alt="image" src="https://github.com/user-attachments/assets/8f4438de-2fe2-4677-bb1d-65208a2e6383" />
