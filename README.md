@@ -6,3 +6,5 @@ pytonをインストールしてinstall_python_packages.batを実行すること
 波形を取得し、詳細に分析したい場合などに便利かと思い作成しました。基本的にAI任せに作成し、デバッグも個人で実施した程度なので
 利用した際の責任は一切取りません。その代わり、自由に改変、改造して使用してもらって構いません。
 より良いものができたら公開していただけると助かります。
+
+<https://github.com/ojimay0123-netizen/Rigol-MHO-Viewer/blob/main/MHO984_sync_r12_11d_scope_dual_drift_complete.zip>
